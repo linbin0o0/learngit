@@ -1,2 +1,2 @@
 git is version control system.
-git is frees software.
+agit is frees software.
